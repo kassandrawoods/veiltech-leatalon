@@ -1,7 +1,7 @@
 ---
 title: La vidéo dans la communication en événementiel
 date: 2024-01-20
-description: "As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. "
+description: "L'article met en avant l'évolution des méthodes de promotion d'événements, passant des flyers traditionnels aux vidéos dynamiques. Il souligne l'importance croissante de la vidéo événementielle dans le marketing, citant des statistiques sur son efficacité."
 ---
 
 ### Comment utiliser la vidéo comme moyen de communiquer pour l'événementiel

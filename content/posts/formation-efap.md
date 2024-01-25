@@ -1,6 +1,6 @@
 ---
 title: Responsable de la communication événementielle
-date: 2018-06-07
+date: 2024-01-03
 description: "L'école des nouveaux métiers de la communication de Paris (EFAP) propose divers formations. Sur leur site, on peut retrouver les points importants à savoir pour devenir responsable en communication"
 ---
 
